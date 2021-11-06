@@ -1,3 +1,18 @@
+# iNoteBook ( MERN Application )
+
+# Technologies
+Project is created with:
+* CSS/Bootstrap and ReactJS (Frontend)
+* NodeJS, Express, JWT Auth (Backend)
+* MongoDB (Database)
+
+## Functioning
+The Web Application is a clone of Google Keep. The users can create,read, update and delete their notes using iNotebook.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
